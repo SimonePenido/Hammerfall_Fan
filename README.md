@@ -1,4 +1,4 @@
-![Fundo.png]
+![logo](logo.jpg)
 
 # HammerFall_Fan
 
