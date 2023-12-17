@@ -4,9 +4,9 @@
 
 # Resumo do Projeto
 
-Projeto realizado como parte do desafio de aprendizado da trilha {Elas Na Tech - 2023}
+Página em HTML5 e CSS3 utilizando Visual Studio Code, como parte do desafio de aprendizagem da Trilha #ElasNaTech. A capacitação foi realizada pela JA Brasil, em parceria com a IBM e CCR S.A. Instrutora: Gil Chaves. Trata-se de site estático de Fã da banda HammerFall, deploy: GitHub Pages.
 
-## Tecnologia Utilizada
+## Tecnologias Utilizadas
 
  - ``HTML5``
  - ``CSS3``
